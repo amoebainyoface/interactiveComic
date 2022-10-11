@@ -8,9 +8,9 @@ Process: The initial process was very much a group effort which was brought abou
 
 Some features I worked on:<br>
 <ul>
-  <il>Taking photos and making collage SVGs for situations 3 and 4.<br>
-  <il>Debugging and CSS styling.<br>
-  <il>Making transparent stickman gif.<br>
+  <li>Taking photos and making collage SVGs for situations 3 and 4.<br>
+  <li>Debugging and CSS styling.<br>
+  <li>Making transparent stickman gif.<br>
 </ul>
 
 Reflection/Evaluation: I feel the collaborative part of the experience was very much new and figuring out/bouncing ideas was a lot of fun. In terms of the project, I feel we came up with a pretty decent/well furnished prototype of a project that could be made very interactive, engaging and informative if allowed to bake in the oven for a longer time. Figuring out the format of SVGs made so much sense to me as a non-coder how this illustrative objects work on websites and the different event listeners that provide plenty of functionality to play around with such as in situation 4 involving the wardrobe outfit selector. Overall, I felt it was a rewarding experience and some tweaks such as borders/doors between different slide, snapping scrolls and further hover styling will make the website definitely more interactive.
